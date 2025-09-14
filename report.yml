@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+=======
+name: John Doe
+age: 30
+city: New York
+is_student: true
+grade:
+  - subject: Math
+    grade: B
+  - subject: English
+    grade: B
+  - subject: Science
+    grade: B+
+>>>>>>> parent of 439ca58 (John Exam3 results)
